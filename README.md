@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Breno Back
 
 - 🎓 Cursando Engenharia da Computação na Universidade de Brasília
-- 🌱 Estudando Python e CiberSecurity
+- 🌱 Estudando Python e Cibersegurança
 
 
 
